@@ -1,0 +1,34 @@
+*{margin:0;
+ padding:0px;
+ box-sizing:border-box;}
+ 
+.container{width:25%;
+			text-align:center;
+			margin:auto;
+			margin-top:50px;
+}
+
+p { line-height:2;
+	
+}
+.para{
+	text-indent:100px;
+}
+.para2{
+	word-spacing:20px;
+}
+.para3{
+	letter-spacing:5px;
+}
+.para4{
+	text-transform:uppercase;
+}
+.para5{
+	text-transform:lowecase;
+}
+.para6{
+	text-transform:capitalize;
+}
+.para7{
+	color:#42f54b;
+}
